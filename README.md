@@ -1,4 +1,4 @@
-# Systems Log Analysis Project
+# Celestia
 
 ## TOPIC: IT System Log Analyzer
 
